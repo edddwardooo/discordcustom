@@ -23,8 +23,7 @@
 /* Accent color, used to decorate the UI with colors. */
   --dplus-accent-color-hue: 360;
   --dplus-accent-color-saturation: 100%;
-  --dplus-accent-color-lightness: 100%;
-  --dplus-accent-color-opacity: 0.2;
+  --dplus-accent-color-lightness: 20%;
 
 /* Foreground color: For things like text and icons. */
   --dplus-foreground-color-hue-base: 210;
@@ -36,7 +35,7 @@
   --dplus-background-color-hue: 320;
   --dplus-background-color-saturation-amount: 1;
   --dplus-background-color-lightness-amount: 1;
-  --dplus-background-color-alpha: 0.15;
+  --dplus-background-color-alpha: 0.2;
 }
 
 /* If you use light theme, you can give it unique settings that are separate from dark theme. */
@@ -63,7 +62,7 @@
 /* You can use any installed font on your device. */
   --dplus-font-ui: 'Poppins';
   --dplus-font-body: 'Roboto';
-  --dplus-font-header: 'Belanosima';
+  --dplus-font-header: 'Franklin Gothic';
 
 /* Round corner sizes, measured in pixel radius.
 Set avatar/server radius to 50% to make them circular.
